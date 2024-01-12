@@ -1,0 +1,31 @@
+div{
+    color: violet;
+    font-size: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: blueviolet;
+
+}
+*{margin: 0;}
+#sas{
+    color: red;
+}
+.mom{
+    color: #000;
+    font-size: 20px;
+}
+.jik{
+    color: lawngreen;
+}
+.jj{
+    background-color: chartreuse;
+
+}
+#saju{
+    color: salmon;
+}
+.sumi{
+    height: 500px;
+    background-image: url('sssss.jpg');
+    background-repeat: no-repeat;
+  background-size: cover;
+}
